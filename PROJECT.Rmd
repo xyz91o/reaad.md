@@ -1,6 +1,5 @@
 ---
 title: "Practical Machine Learning Project Report"
-author: "chintan zaveri"
 output:
   html_document:
     fig_height: 9
